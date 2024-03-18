@@ -11,7 +11,7 @@ Hi! I'm Agustin, a full-stack web developer 👨‍💻
 
 🌱 I’m currently learning and exploring new technologies, pushing my own limits. I want to be an eternal learner.
 
-✨ I’m from Argentina and my English level is C2 (Proficient) https://cert.efset.org/LtVuSr?cid=em100a .
+✨ I’m from Argentina and my English level is C2 (Proficient) https://cert.efset.org/LtVuSr?cid=em100a and I also have a First Certificate from Cambridge School.
 
 
 🌟 My Philosophy
