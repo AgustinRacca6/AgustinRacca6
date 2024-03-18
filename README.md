@@ -19,3 +19,6 @@ I believe that building great software is a collaborative effort, and I strive t
 📫 Connect with me:
 I'm always interested in connecting with other developers, entrepreneurs, and tech enthusiasts. If you'd like to get in touch, you can find me on:
 https://www.linkedin.com/in/agustin-racca-799414271/
+
+Languages and Tools:
+Javascript Typescript HTML Css Redux React Bootstrap Express NodeJs Mongodb Postgresql
