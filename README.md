@@ -21,4 +21,4 @@ I'm always interested in connecting with other developers, entrepreneurs, and te
 https://www.linkedin.com/in/agustin-racca-799414271/
 
 Languages and Tools:
-Javascript Typescript HTML Css Redux React Bootstrap Express NodeJs Mongodb Postgresql
+Javascript | Typescript | HTML | Css | Redux | React | Bootstrap | Express | NodeJs | Mongodb | Postgresql
