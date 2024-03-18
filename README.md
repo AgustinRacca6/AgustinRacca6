@@ -1,4 +1,4 @@
-### Hi there I am AGUSTIN,a full-stack web developer 👨‍💻 
+### Hi there I am AGUSTIN, a full-stack web developer 👨‍💻 
 
 Hi! I'm Agustin, a full-stack web developer 👨‍💻
 
